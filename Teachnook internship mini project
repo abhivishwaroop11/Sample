@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Minor Project</title>
+    <style>
+        h1{
+            text-align:center;
+            font-family:cursive;
+            font-size: 50px;
+            color:#9b2915;
+        }
+        body{
+    background-color: #ffb5a7;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+  .my{
+         font-size:30px;
+         text-align:center;
+         color:#9b2915;
+        font-family: monospace;
+  }
+header{
+            background-color:lavenderblush;
+            color:black;
+            font-size:25px;
+            left:0px;
+            top:0px;
+            position: fixed;
+            width:100%;
+            text-align: center;
+            font-family: cursive;
+            border-radius: 20px;
+            box-shadow: 5px 5px 20px #eac9c1;
+        }
+footer{
+            background-color:lavenderblush;
+            color:black;
+            font-size:20px;
+            left:0px;
+            bottom:0px;
+            position: fixed;
+            width:100%;
+            text-align: center;
+            font-family: cursive;
+            border-radius: 20px;
+            box-shadow: 5px 5px 20px #eac9c1;
+        }
+        p{
+            font-family: cursive;
+            color: black;
+        }
+
+        * {
+  box-sizing: border-box;
+}
+ .aud{
+       text-align: center;
+       margin:100px;
+       padding:10px;
+ }
+.end{
+    text-align: center;
+    font-size: 30px;
+    color:#9b2915;
+    margin:80px;
+    font-family: cursive;
+    padding: 10px;
+}
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 32px;
+  background-color: #0a0a23;
+  color: #fff;
+  border-bottom: 4px solid #fdb347;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px 10px;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.gallery::after {
+  content: "";
+  width: 350px;
+}
+
+    </style>
+</head>
+<body>
+    <footer>Designed and Developed by Abhinandan S Vishwaroop</footer>
+    <div>
+       <header>Historical places in India</header>
+       <h4 class="my">"History is a set of lies agreed upon"</h4>
+    </div>
+    <div class="gallery">
+        <div>
+            <h2>1.Taj Mahal, Agra</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--XRwVJODr--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/699/original/1651645541_shutterstock_1662357571.jpg.jpg">
+      <h3>One of the most famous historical sites in India, the Taj Mahal of Agra dates back to the 17th century. It was built by Shah Jahan, the Mughal emperor, in the memory of Mumtaz Mahal, his third wife. It is also the abode of the tomb of Shah Jahan himself.
+        The Taj Mahal has intricate carvings and is made entirely of white marble, on the southern banks of the Yamuna River. It is also one of the Seven Wonders of the World.</h3> 
+        </div>
+      <div>
+        <h2>2.Agra Fort, UP</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--7ROWC2jg--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/700/original/1651645919_shutterstock_1418802812.jpg.jpg">
+      <h3>One of the oldest historical places in India is the Agra Fort, located in Uttar Pradesh. A true example of the stunning Mughal form of architecture, the 16th century Agra Fort was built during Akbar’s reign and has been recognized as a UNESCO World Heritage Site as well.
+    The structure of the fort also has other different styles of architecture, along with intricate marble and sandstone artwork. It is often also called the Lal Qila by the locals.</h3>
+      </div>
+      <div>
+        <h2>3.Red Fort, Delhi</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--BysGU3M4--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/701/original/1651646427_shutterstock_418380280.jpg.jpg">
+      <h3>When it comes to the famous historical places in India, one cannot miss the Red Fort in Delhi. Also popularly known as the Lal Qila, the Red Fort was constructed during Shah Jahan’s reign in the 17th century.
+Constructed using huge red sandstone walls in the Mughal style of architecture, the highlights of the Red Fort include its beautiful geometric gardens, magnificent balconies and the opulent entertainment halls.</h3>
+      </div>
+      <div>
+        <h2>4.Hawa Mahal, Jaipur</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--QHGm8_p2--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/704/original/1651647055_shutterstock_173584238.jpg.jpg">
+      <h3>Hawa Mahal in Jaipur is one of the best historical places in India, in addition to being a prominent landmark of Rajasthan. Dating back to the 18th century, Hawa Mahal is a 5-storey structure that overlooks the bustling streets of Jaipur. It has also been made in a blend of the Rajput, Mughal and Islamic styles of architecture.
+     Built by Maharaja Sawai Pratap Singh, the Hawa Mahal has been constructed in a way such that the small windows here allow winds to enter the palace and keep it cool during the blazing hot summers.
+     </h3>
+      </div>
+      <div>
+        <h2>5.Khajuraho Temples, Madhya Pradesh</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--kYlqWa51--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/707/original/1651648001_shutterstock_1364029607.jpg.jpg">
+       <h3>The famous Khajuraho Temples in Madhya Pradesh are amongst the top 10 historical places in India, popular for being home to a total of 85 Hindu and Jain temples, spread across three complexes. It is here where you can see intricate rock carvings portraying dance, music, passion and eroticism, in addition to learning about the rich culture of the region during the medieval period.
+The Khajuraho Temples date back to the 12th century, and are recognized as UNESCO World Heritage Sites.</h3>
+      </div>
+      <div>
+        <h2>6.India Gate, Delhi</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--bdWve-rU--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/715/original/1651839813_shutterstock_609509006.jpg.jpg">
+      <h3>Of all the famous historical places in India, India Gate possibly ranks at the top. An iconic landmark of Delhi, this sandstone-granite arch gate is amongst the largest war memorials in all of India, and is surrounded by verdant lawns and gardens.
+     Also known as the All-India War Memorial, the India Gate is located along the Rajpath, and is often said to be similar to the Arc de Triomphe in France, the Gateway of India in Mumbai and the Arch of Constantine in Rome.
+     With a height of 42 metres, this memorial has been dedicated to the 82,000 Indian and British soldiers who sacrificed their lives in the First World War and the Third Anglo-Afghan War.</h3>
+     </div>
+      <div>
+        <h2>7.Golden Temple, Punjab</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--BQ_VPq0O--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/711/original/1651649059_shutterstock_479585620.jpg.jpg">
+      <h3>The top 10 historical places in India also include the world-famous Golden Temple, located in the city of Amritsar in Punjab. Also known as Sri Harmandir Sahib, the Golden temple is the most important religious site for the Sikhs, and celebrates humanity, tranquillity and brotherhood.
+       Spread across two storeys, the gurdwara has a unique domed architecture, with the dome-part of it completely covered in pure gold, while the other half is made out of white marble.
+        In addition to seeing major attractions like the Akal Takht, Sikh History Museum, Clock Tower and the Teja Singh Samundri Hall, you can also enjoy the daily Langar here, which attracts thousands of devotees and visitors every day.</h3>
+     </div>
+      <div>
+        <h2>8.Meenakshi Amman Temple, Madurai</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--49pNVMTU--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/710/original/1651648860_shutterstock_244101571.jpg.jpg">
+      <h3>Built in the Dravidian style of architecture, the Meenakshi Amman Temple ranks as one of the most beautiful ancient places in India. Built in the early 17th century, the temple is located on the southern banks of the Vaigai river in Madurai, Tamil Nadu. Also known as the Sri Meenakshi Temple, this temple is primarily dedicated to Goddess Parvati and Lord Shiva.
+     The most striking part of the temple, however, is that both the god and goddess are worshipped together here. From minute details, art pieces in the pillars and walls, to 14 gateway towers called gopurams, and more, you can see it all at the Meenakshi Amman Temple.</h3>
+     </div>
+      <div>
+        <h2>9.Victoria Memorial, Kolkata</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--DB8LV1Y9--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/705/original/1651647391_shutterstock_1100136929.jpg.jpg">
+      <h3>Ranking amongst the top 10 historical places in India, Kolkata’s Victoria Memorial was constructed in honour of Queen Victoria, making it one of the relics of the British Raj. Built entirely out of white marble, the Victoria Memorial is almost a replica of its namesake in London.
+     Surrounded by a well-manicured garden on all sides, it is home to a wide number of sculptures, artwork, statues and more. You can also find a 16-foot-tall bronze statue of the Angel of Victory on top of the central dome of the Victoria Memorial.</h3>
+     </div>
+     <div>
+        <h2>10.Jallianwala Bagh, Punjab</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--1PuIjaYA--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/708/original/1651648251_shutterstock_538092433.jpg.jpg">
+      <h3>With a sordid history attached to it, the Jallianwala Bagh is also one of the top 10 historical places in India. Located in close proximity to the Golden Temple in Amritsar, Punjab, Jallianwala Bagh is a public garden, which is home to a memorial that commemorates the massacre of people celebrating Baisakhi by the British.
+      Sprawling across 6.5 acres, the Jallianwala Bagh has an association with one of the saddest days in all of Indian history. You can find a memorial tablet at the entrance of the park, which now serves as a record of history.</h3>
+     </div>
+     <div>
+        <h2>11.Mysore Palace, Karnataka</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--w786IAjd--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/718/original/1651651707_shutterstock_539087182.jpg.jpg">
+      <h3>Boasting of the grand Indo-Saracenic style of architecture, the Mysore Palace, located in the city of Mysore in Karnataka, remains one of the most popular historical sites in the country. Complete with opulent domes, gardens, arches, turrets as well as colonnades, the palace was the former residence of the royal family of Mysore.
+      As of today, in addition to being their official residence, the palace also serves as a museum, where you can find many paintings, royal outfits and costumes, jewellery and a lot more.</h3>
+     </div>
+     <div>
+        <h2>12.Sanchi Stupa, Madhya Pradesh</h2>
+      <img src="https://images.thrillophilia.com/image/upload/s--ejkIdzM9--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/383/709/original/1651648516_shutterstock_776488693.jpg.jpg">
+      <h3>Amongst the top historical places in India, the Sanchi Stupa dates back to the 3rd century, and is said to be one of the oldest monuments in the country. Constructed in the Buddhist style of architecture, the Sanchi Stupa is also an important Buddhist pilgrimage site and a UNESCO World Heritage Site.
+      The stupa is located in the town of Sanchi, in Madhya Pradesh, and is a remnant of the town’s rich architectural and cultural grandeur. In addition to the opulent dome, you can also find intricate carvings and embellishments in the gateways and walls of the stupa.</h3>
+     </div>
+     <div>
+        <h2>13.Bijapur: Biggest Domes In India</h2>
+      <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2016/07/Bijapur-in-Karnataka.jpg">
+      <h3>Home to the world-famous Gol Gumbaz or Gol Gummata, Bijapur is a must-visit historical place in North Karnataka. It is the mausoleum of Mohammed Adil Shah with a big circular domethat imparts this city its name. Gol Gumbaz is a single mammoth structure and is one of the biggest domes in India. 
+        The city houses numerous prominent historical monuments of Karnataka. Shivagiri, Jama Masjid and Bara Kaman are some of the prominent landmarks to explore in Bijapur. Bijapur is well-connected to other offbeat historical places in Karnataka and is an ideal spot for day-excursions.</h3>
+    </div>
+    <div>
+        <h2>14.Hampi</h2>
+      <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/Hampi.jpg">
+      <h3>Also called as the ‘City of Ruins’, Hampi is one of the most famous historical places in Karnataka under UNESCO. The city is known for its ancient temples and monuments that date back to a thousand years. 
+        It has been an important seat in the history of Karnataka and has around 500 ancient temples; archaeological monuments; treasury building; bastions. What makes this place a famous backpacker’s delight is its hippie vibe along with vibrant street markets abound with handcrafts and souvenirs. 
+        Virupaksha Temple and Vithala Temple are the most famous historical places in Hampi. To explore the major historical monuments of Karnataka, make sure to visit this fascinating city.</h3>
+    </div>
+    <div>
+        <h2>15.Badami: Unique Rock Cut Temples</h2>
+      <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/11/Badami_22nd-nov.jpg">
+      <h3>Badami is one of the offbeat historical places in Karnataka where you will find exquisite temples and historical monuments. The megalithic dolmens is the evidence that this city was settled in prehistoric times. The unique rock-cut temples of Mahakuta is the main reason why people come to visit this place. The red sandstone cliffs, Badami Fort, and Agastya Lake are other major attractions of Badami. 
+        Rock Climbing is one of the most famous activities for the adventure enthusiasts.</h3>
+    </div>
+    </div>
+    <div class="aud">
+        <audio controls>
+            <source src="National Anthem.mp3" type="audio/mpeg">
+          </audio>
+    </div>
+    <h2 class="end">Thank you</h1>
+</body>
+</html>
